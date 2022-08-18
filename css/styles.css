@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(to right, rgba(0, 191, 255, 0.525) , rgba(0, 140, 255, 0.489));
+    }
+    #main_container{
+        padding: 20px;
+        padding-top: 10px;
+        height: fit-content;
+        width: fit-content;
+        background-image: linear-gradient(to right, rgb(0, 191, 255) , rgb(0, 140, 255));
+        margin: auto;
+        box-shadow: -5px 10px rgba(2, 153, 204, 0.525);
+        border-radius: 10px;
+    }
+    select{
+        margin-top: 10px;
+    }
+    input{
+        margin-top: 10px;
+    }
+    #btn{
+        min-width: 100px;
+        width: 20%;
+        margin: auto;
+        margin-left: 40%;
+        height:30px;
+        background-color: maroon;
+        margin-top: 10px;
+        font-weight: 700;
+        font-size: 15px;
+        color: white;
+    }
+    #header{
+        margin: auto;
+        text-align: center;
+        font-size: 30px;
+        font-weight: 700;
+        color: rgb(255, 255, 255) !important;
+    }
+    #ans-box{
+        height: 30px;
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+        padding-top: 16px;
+        font-size: 15px;
+        background-color: #fff;
+    }
